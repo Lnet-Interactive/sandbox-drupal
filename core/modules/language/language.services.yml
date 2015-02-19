@@ -1,6 +1,0 @@
-services:
-  path_processor_language:
-    class: Drupal\language\HttpKernel\PathProcessorLanguage
-    tags:
-      - { name: path_processor_inbound, priority: 300 }
-    arguments: ['@config.factory']
