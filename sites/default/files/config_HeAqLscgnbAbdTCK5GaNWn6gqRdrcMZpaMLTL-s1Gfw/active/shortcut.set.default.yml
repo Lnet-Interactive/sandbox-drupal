@@ -1,0 +1,8 @@
+id: default
+uuid: ceb09b72-8b90-43bb-9c00-cd75424129f7
+label: Default
+links:
+  f4eb5e42-a09f-4520-a600-e30f2e73edad: f4eb5e42-a09f-4520-a600-e30f2e73edad
+  9604793e-dac5-47d7-8900-d7995e4b5dca: 9604793e-dac5-47d7-8900-d7995e4b5dca
+status: '1'
+langcode: en

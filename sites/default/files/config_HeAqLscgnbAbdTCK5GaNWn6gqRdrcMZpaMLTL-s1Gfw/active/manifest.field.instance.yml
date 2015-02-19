@@ -1,0 +1,16 @@
+custom_block.basic.block_body:
+  name: field.instance.custom_block.basic.block_body
+comment.comment_node_page.comment_body:
+  name: field.instance.comment.comment_node_page.comment_body
+node.page.body:
+  name: field.instance.node.page.body
+comment.comment_node_article.comment_body:
+  name: field.instance.comment.comment_node_article.comment_body
+node.article.body:
+  name: field.instance.node.article.body
+node.article.field_tags:
+  name: field.instance.node.article.field_tags
+node.article.field_image:
+  name: field.instance.node.article.field_image
+user.user.user_picture:
+  name: field.instance.user.user.user_picture

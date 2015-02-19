@@ -1,0 +1,19 @@
+id: comment_body
+uuid: 65614af3-0626-4efb-b048-72a0e5419d93
+status: '1'
+langcode: en
+type: text_long
+settings: {  }
+module: text
+active: '1'
+entity_types:
+  - comment
+storage:
+  type: field_sql_storage
+  settings: {  }
+  module: field_sql_storage
+  active: '1'
+locked: '0'
+cardinality: '1'
+translatable: '0'
+indexes: {  }

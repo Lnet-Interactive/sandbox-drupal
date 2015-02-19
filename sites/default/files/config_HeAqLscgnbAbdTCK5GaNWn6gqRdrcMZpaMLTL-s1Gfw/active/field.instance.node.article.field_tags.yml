@@ -1,0 +1,22 @@
+id: node.article.field_tags
+uuid: 6ac6ab34-d740-463a-b700-ba30edbe271f
+status: '1'
+langcode: en
+field_uuid: baffa43e-6bc9-4dcc-8706-6e09197ed356
+entity_type: node
+bundle: article
+label: Tags
+description: 'Saisissez une liste de mots séparés par des virgules pour décrire votre contenu.'
+required: '0'
+default_value: {  }
+default_value_function: ''
+settings:
+  user_register_form: '0'
+widget:
+  type: taxonomy_autocomplete
+  weight: '-4'
+  settings:
+    size: '60'
+    autocomplete_path: taxonomy/autocomplete
+    placeholder: ''
+  module: taxonomy

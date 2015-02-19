@@ -1,0 +1,6 @@
+id: anonymous
+uuid: 03fc5e88-d486-4901-a818-24c917fe3d1a
+label: 'Anonymous user'
+weight: '0'
+status: '1'
+langcode: en

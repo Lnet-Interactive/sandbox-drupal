@@ -1,0 +1,31 @@
+id: node.article.field_image
+uuid: 18e25b48-b04b-4bdb-953f-63ff0dd4daa9
+status: '1'
+langcode: en
+field_uuid: 37323cb3-7e49-4a9e-9100-d87c331d7e7e
+entity_type: node
+bundle: article
+label: Image
+description: 'Transférer une image pour accompagner cet article.'
+required: '0'
+default_value: {  }
+default_value_function: ''
+settings:
+  file_directory: field/image
+  file_extensions: 'png gif jpg jpeg'
+  max_filesize: ''
+  max_resolution: ''
+  min_resolution: ''
+  alt_field: '1'
+  title_field: ''
+  alt_field_required: '0'
+  title_field_required: '0'
+  default_image: '0'
+  user_register_form: '0'
+widget:
+  type: image_image
+  settings:
+    progress_indicator: throbber
+    preview_image_style: thumbnail
+  weight: '-1'
+  module: image

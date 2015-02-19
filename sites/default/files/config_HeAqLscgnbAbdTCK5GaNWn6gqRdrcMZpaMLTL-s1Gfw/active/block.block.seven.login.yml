@@ -1,0 +1,23 @@
+id: seven.login
+label: 'User login'
+label_display: visible
+uuid: 97da0744-6db3-4438-b916-2213c92160df
+region: content
+weight: '10'
+module: user
+status: '1'
+visibility:
+  path:
+    visibility: '0'
+    pages: ''
+  role:
+    roles: {  }
+  node_type:
+    types:
+      article: '0'
+      page: '0'
+  visibility__active_tab: edit-visibility-path
+plugin: user_login_block
+settings:
+  cache: '-1'
+langcode: en

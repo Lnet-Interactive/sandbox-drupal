@@ -1,0 +1,11 @@
+id: node.page.default
+uuid: 1e4e9074-888f-44ba-a444-68632b0c97de
+targetEntityType: node
+bundle: page
+viewMode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: '0'
+    settings: {  }

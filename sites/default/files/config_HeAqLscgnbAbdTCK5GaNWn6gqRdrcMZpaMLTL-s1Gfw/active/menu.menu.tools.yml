@@ -1,0 +1,6 @@
+id: tools
+uuid: 0040366d-1c48-435d-a902-2e2fa9f05675
+label: Tools
+description: 'Contains links for site visitors. Some modules add their links here.'
+status: '1'
+langcode: en

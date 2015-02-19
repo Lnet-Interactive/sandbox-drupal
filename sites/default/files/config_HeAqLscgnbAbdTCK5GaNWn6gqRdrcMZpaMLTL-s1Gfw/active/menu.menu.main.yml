@@ -1,0 +1,6 @@
+id: main
+uuid: 8824d904-921d-40aa-9503-3a13722997fb
+label: 'Main navigation'
+description: 'Use this for linking to the main site sections.'
+status: '1'
+langcode: en

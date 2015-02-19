@@ -1,0 +1,24 @@
+id: node.page.body
+uuid: 79fe1c42-4aa7-4f04-b000-f791f67282e3
+status: '1'
+langcode: en
+field_uuid: 755ce7a8-2bb5-4e4d-8b00-ef01f864e8a8
+entity_type: node
+bundle: page
+label: Body
+description: ''
+required: '0'
+default_value: {  }
+default_value_function: ''
+settings:
+  display_summary: '1'
+  text_processing: '1'
+  user_register_form: '0'
+widget:
+  type: text_textarea_with_summary
+  settings:
+    rows: '9'
+    summary_rows: '3'
+    placeholder: ''
+  module: text
+  weight: '-4'
